@@ -1,0 +1,16 @@
+0---Standing
+1---Walking
+2---Sitting
+3---Laying down
+4---Eating
+5---Sleeping
+6---Running
+7---No dog
+8---Taking a shower
+9---Sniffing
+10---Playing with human
+11---Playing with a toy
+12---Playing with dogs
+13---Playing with other animals
+14---Swimming
+15---begging for food
